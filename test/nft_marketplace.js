@@ -9,7 +9,7 @@ contract("NFTMarketplace", (accounts) => {
   });
 
   it("should mint an NFT and set the correct royalty", async () => {
-    const tokenURI = "https://your-image-uri.com/image1";
+    const tokenURI = "https://gateway.pinata.cloud/ipfs/QmUaKkYsFnYsZLs4KXvXiTAnb6ZYpwdRw5xiLy259fus9V"; // upload our images using IPFs ( // Upload the image to IPFS)
     const royalty = 10; // 10% royalty
 
     // Mint an NFT and check the events
