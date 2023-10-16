@@ -2,6 +2,11 @@
 
 Welcome to the README for your NFT Marketplace project. This document will guide you through the structure of your code files, how to compile and deploy your smart contract on the Sepolia testnet, and how to test the key features of your marketplace.
 
+# Link Video Explanation of working Code
+```
+https://drive.google.com/file/d/11d4a2o5k7SNZhO1e7fyrwk-doNzlfYgA/view?usp=sharing
+```
+
 ## Table of Contents
 1. [Smart Contract](#smart-contract)
 2. [Deployment](#deployment)
