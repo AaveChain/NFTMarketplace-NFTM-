@@ -4,7 +4,7 @@ Welcome to the README for your NFT Marketplace project. This document will guide
 
 # Link Video Explanation of working Code
 ```
-https://drive.google.com/file/d/11d4a2o5k7SNZhO1e7fyrwk-doNzlfYgA/view?usp=sharing
+[https://drive.google.com/file/d/11d4a2o5k7SNZhO1e7fyrwk-doNzlfYgA/view?usp=sharing](https://drive.google.com/drive/folders/1vWCDMLpaRgncGsWt3O6Yhb1-d3gQ-7JO?usp=sharing)
 ```
 
 ## Table of Contents
